@@ -18,3 +18,5 @@ Add this callout block in the index file for both toolbox1 and toolbox2.
 ```
 
 ![](screenshot1.png)
+
+## Add Google Tag Manager
